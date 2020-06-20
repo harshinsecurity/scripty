@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/release-1.0-orange">
   </a>
   <a href="https://twitter.com/xploitprotocol">
-      <img src="https://img.shields.io/twitter/url?logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fxploitprotocol">
+      <img src="https://img.shields.io/twitter/follow/xploitprotocol?style=social">
   </a>
 </p>
 
