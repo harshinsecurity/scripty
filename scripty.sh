@@ -94,7 +94,7 @@ for line in $(cat $url/recon/wayback/wayback_output.txt);do
 done
 
 rm $url/recon/wayback/extensions/js1.txt
-rm $url/recon/wayback/extensions/jsp1.txt
+rm $url/recon/wayback/extensxxxions/jsp1.txt
 rm $url/recon/wayback/extensions/json1.txt
 rm $url/recon/wayback/extensions/php1.txt
 rm $url/recon/wayback/extensions/aspx1.txt
