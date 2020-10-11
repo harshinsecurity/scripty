@@ -100,3 +100,7 @@ rm $url/recon/wayback/extensions/php1.txt
 rm $url/recon/wayback/extensions/aspx1.txt
 #echo "[+] Running eyewitness against all compiled domains..."
 #python3 EyeWitness/EyeWitness.py --web -f $url/recon/httprobe/alive.txt -d $url/recon/eyewitness --resolve
+#hello rm $url/recon/wayback/extensions/js1.txt
+#m $url/recon/wayback/extensions/js1.txt
+#m $url/recon/wayback/extensions/js1.txt
+#m $url/recon/wayback/extensions/js1.txt
