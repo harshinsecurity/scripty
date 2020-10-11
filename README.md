@@ -18,7 +18,7 @@
 </p>
 
 ### Introduction
-As we follow some predefined steps as we first get the target in the first stage (i.e Recon stage).Its better to use a script for all that repetative tasks rather than Running tools one by one and handling manualy.That obviously save some time or atlist you can sit back and enjoy your coffee at reconnaissance stage.The aim of this project is to make reconnaissance and enumeration easy and organised.,
+As we follow some predefined steps as we first get the target in the first stage (i.e Recon stage).Its better to use a script for all that repetative tasks rather than Running tools one by one and handling manualy.That obviously save some time or atlist you can sit back and enjoy your coffee at reconnaissance stage.The aim of this project is to make reconnaissance and enumeration easy and organised.
 
 ### tools used:
 * [assetfinder](https://github.com/tomnomnom/assetfinder)
